@@ -1,0 +1,16 @@
+{
+    "projectName": "ci_gitjenkins",
+    "username": "leonardo.boccone@socialintegration.globant.com.lbdev",
+    "id": "084c1f70-6796-11e5-b6e6-3babfe853bc0",
+    "namespace": "",
+    "environment": "developer",
+    "workspace": "/home/lboccone/Documents/Workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ],
+    "password": "gb1231619QIM0oSwrDAAF2NOoRAp1ooOzd"
+}
